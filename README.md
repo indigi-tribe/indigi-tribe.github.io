@@ -12,4 +12,4 @@ Someone has let the kiwis out into the interwebs. hurry up and take 'em away, th
 
 A collection of humans just hanging out.
 
-[our twitter](
+[@indigi_tribe_21](@https://twitter.com/indigi_tribe_21)
