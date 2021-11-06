@@ -6,7 +6,7 @@ We are situated on the top of the south island in new zealand. lots of tramping,
 
 ### kiwiPunks
 
-Someone has let the kiwis out into the interwebs. hurry up and take 'em away, they're a bloody nuisance, loitering all day. worse than the weka. 
+Someone has let these kiwiPunks out into the interwebs. they're a bloody nuisance, loitering all day. worse than the weka. can pry find a couple over at [hic et nunc (tezos)](https://www.hicetnunc.xyz/i.t.21). a full series of AI generated kiwiPunks is in the works, should be released any day now ...
 
 ### indigiTribe
 
@@ -14,3 +14,4 @@ A collection of humans just hanging out.
 
 
 tweet at us [@indigi_tribe_21](@https://twitter.com/indigi_tribe_21)
+
