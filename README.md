@@ -1,8 +1,10 @@
-## Welcome to indigiTribe
+# welcome to indigiTribe
 
 Just some guys trying to write more code. 
 
 We are situated on the top of the south island of new zealand. lots of tramping, coding, and shenanigans.
+
+> ## current projects
 
 ### kiwiPunks
 
@@ -12,7 +14,7 @@ a series of 50 ai generated kiwiPunks can be found over on [solsea.io (solana)](
 
 ### indigiTribe
 
-A collection of humans just hanging out.
+A collection of humans doing human stuff.
 
 
 tweet at us [@indigi_tribe_21](@https://twitter.com/indigi_tribe_21)
