@@ -1,10 +1,10 @@
-# welcome to indigiTribe
+## welcome to indigiTribe
 
 Just some guys trying to write more code. 
 
 We are situated on the top of the south island of new zealand. lots of tramping, coding, and shenanigans.
 
-> ## current projects
+## current projects
 
 ### kiwiPunks
 
