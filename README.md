@@ -1,4 +1,4 @@
-## welcome to indigiTribe
+# indigiTribe
 
 Just some guys trying to write more code. 
 
